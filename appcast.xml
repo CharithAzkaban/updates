@@ -9,7 +9,7 @@
             <pubDate>Fri, 01 Mar 2024 12:00:00 +0800</pubDate>
             <enclosure url="https://charithazkaban.github.io/updates/setup.exe"
                        sparkle:dsaSignature="MD0CHDi4aTHIy4VFJ+ZLZj5fY2KibFZleEBDft259xsCHQDRmcR1gGFeaNyP7jM6OugAfaNwtRYCqDfLQIx0"
-                       sparkle:version="1.0.0+1"
+                       sparkle:version="1.0.1+2"
                        sparkle:os="windows"
                        length="0"
                        type="application/octet-stream" />
